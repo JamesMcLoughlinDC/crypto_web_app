@@ -1,0 +1,10 @@
+This is a crypto web app created using streamlit. 
+It pulls API data on the top 100 cryptos from coinmarketcap.com
+Displays key data as a dataframe, shows a bar chart of percent change
+Allows user the following options: 
+--select which currency to denominate prices in *USD *BTC or *ETH
+-- Choose which of the top 100 cryptos to display
+-- Use a slider to limit the # of cryptos from 0 ->100
+-- Select the time frame for which to measure %change in price (1 hour, 24 hours, 1 week )
+
+Credit to 'the Data Professor' for the streamlit layout. 
